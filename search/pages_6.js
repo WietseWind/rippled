@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['ledger_20process_25424',['Ledger Process',['../md_ripple_app_ledger_README.html',1,'']]]
+  ['fee_20voting_0',['Fee Voting',['../md_xrpld_app_misc_README.html',1,'']]],
+  ['fees_1',['Fees',['../md_xrpld_app_misc_FeeEscalation.html',1,'']]]
 ];

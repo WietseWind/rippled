@@ -1,13 +1,9 @@
 var searchData=
 [
-  ['xrp_25329',['xrp',['../classripple_1_1test_1_1ElementComboIter.html#a4a14ce172d72da140cb8ae49a8f132dca295635e63aa72d18e14800198e3c447b',1,'ripple::test::ElementComboIter']]],
-  ['xrp_5fpayment_5fchannel_25330',['XRP_PAYMENT_CHANNEL',['../namespaceripple.html#a22768e0a41b646442c98d38f2f2a307babfbd5f0886f506b4a646d5019f3db0f6',1,'ripple']]],
-  ['xrpround_25331',['xrpRound',['../namespaceripple.html#ae5310ca5604fba73b42fb0de0205d846a0de8d8a6651fa0de1a4318cf7890f52d',1,'ripple']]],
-  ['xrptoiou_25332',['XrpToIou',['../namespaceripple.html#ae9b6ac4bca5f49e1aa2753e0d9faa2a1a5453323c4d02a5c6a6ec19cbcdfb70e5',1,'ripple']]],
-  ['xxh_5faligned_25333',['XXH_aligned',['../namespacebeast_1_1detail.html#a3f28e15d8e6a86d4fd1f604373318633a4064cb027c54663f1b8b7295855c97d8',1,'beast::detail']]],
-  ['xxh_5fbigendian_25334',['XXH_bigEndian',['../namespacebeast_1_1detail.html#adea68075e427dfc7781b5a930121b579a68a60982d9622bb00417db5d6f0032ea',1,'beast::detail']]],
-  ['xxh_5ferror_25335',['XXH_ERROR',['../namespacebeast_1_1detail.html#a23d8bec4f2b07e28987d348b3b5c896ca14990ac4535ed1a6522cc44a93b279dd',1,'beast::detail']]],
-  ['xxh_5flittleendian_25336',['XXH_littleEndian',['../namespacebeast_1_1detail.html#adea68075e427dfc7781b5a930121b579a1cc3c7817ef899641248c430aaa73f4d',1,'beast::detail']]],
-  ['xxh_5fok_25337',['XXH_OK',['../namespacebeast_1_1detail.html#a23d8bec4f2b07e28987d348b3b5c896caa642c7046ece6b5bfd60b8bd51d20cc0',1,'beast::detail']]],
-  ['xxh_5funaligned_25338',['XXH_unaligned',['../namespacebeast_1_1detail.html#a3f28e15d8e6a86d4fd1f604373318633a482e193e1bc18e4fb39839fb70f8eeb6',1,'beast::detail']]]
+  ['valid_0',['Valid',['../namespaceripple.html#abcad59b0151763334cc398263373bcdda3ac705f2acd51a4613f9188c05c91d0d',1,'ripple']]],
+  ['validated_1',['VALIDATED',['../namespaceripple_1_1RPC.html#a4c04e509451d50d9449cff3d477ff4f2af275a9f97d64cc8d9bbec02e4a361755',1,'ripple::RPC']]],
+  ['validation_2',['validation',['../classripple_1_1TrafficCount.html#adbaee77c7a063c9aac783e54594aeda7a165ad2e358e034ee1a5638ce48322d1d',1,'ripple::TrafficCount::validation()'],['../namespaceripple.html#ad5143ceada01141772ae4aab984f94bdaa617908b172c473cb8e8cda059e55bf0',1,'ripple::validation()']]],
+  ['validatorlist_3',['validatorlist',['../classripple_1_1TrafficCount.html#adbaee77c7a063c9aac783e54594aeda7a603bba4843f1ab5e0a4259c22231be45',1,'ripple::TrafficCount']]],
+  ['validatorlist2propagation_4',['ValidatorList2Propagation',['../namespaceripple.html#a3b423ad1ba6341f945c08c13fe141150abbd68b30711cfd4adc8abd9b5519abe1',1,'ripple']]],
+  ['validatorlistpropagation_5',['ValidatorListPropagation',['../namespaceripple.html#a3b423ad1ba6341f945c08c13fe141150a9a32e2a438c197a712d352ca4e69b65b',1,'ripple']]]
 ];

@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['the_20xrp_20ledger_25441',['The XRP Ledger',['../md____w_rippled_rippled_README.html',1,'']]],
-  ['theory_20of_20pathfinding_25442',['Theory of Pathfinding',['../md_ripple_app_paths_README.html',1,'']]],
-  ['transactors_25443',['Transactors',['../md_ripple_app_tx_README.html',1,'']]]
+  ['operating_20an_20xrp_20ledger_20server_20securely_0',['Operating an XRP Ledger server securely',['../md____w_rippled_rippled_SECURITY.html',1,'']]],
+  ['overlay_1',['Overlay',['../md_xrpld_overlay_README.html',1,'']]]
 ];
